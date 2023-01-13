@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/VasJM/fem_product_preview_card_component)
+- [Solution](https://github.com/VasJM/product_preview_card_component)
 - [Live Site](https://magnificent-pavlova-98acc6.netlify.app/)
 
 ## My process
