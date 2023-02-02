@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/VasJM/product_preview_card_component)
+- [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-VWbxOL--mJ)
 - [Live Site](https://leafy-biscotti-0fbc91.netlify.app/)
 
 ## My process
